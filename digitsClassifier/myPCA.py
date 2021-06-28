@@ -1,5 +1,4 @@
 # Atiya Kailany
-# CS 679 - Machine Learning
 # April 25, 2021
 
 import numpy as np
